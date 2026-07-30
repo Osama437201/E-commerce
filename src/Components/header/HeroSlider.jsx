@@ -48,6 +48,7 @@ function HeroSlider() {
                 </Link>
               </div>
               <img src="/img/banner_Hero2.jpg" alt="Slider_hero 2" />
+
             </SwiperSlide>
             <SwiperSlide>
               <div className="content">
