@@ -42,7 +42,7 @@ function Product({ item }) {
 
   }
 
-  // favourites 
+ 
     const isInFav= favourites.some(i => i.id === item.id);
 
   const handleAddToFavourites = () => {
